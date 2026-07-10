@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1201
+slug  : the-memristor-basin
+seal  : 63fac447e167c5d29c36e7c1dbba192c32791ca16028eabb9a59d34381f855f4
+prev  : 78376529cdb0b2c5c477db64905722179f5b803a08b3a6791571ebd6d3d20ded
+link  : 0bebda7e3e9dbf498c2156e707317a7aa5c0c60b8133be77ee8684285dd9ca06
+head  : 324d76a71627b993d22bc11c1290d4d2fd4b411ba959c6e859c3f0a71c1f72dc
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
